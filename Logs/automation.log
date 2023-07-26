@@ -1,0 +1,81 @@
+ 07202023 04:05:41 PM: INFO: ************Test_001_Login**********
+07202023 04:05:41 PM: INFO: ************Verifying Home Page Title***********
+07202023 04:05:45 PM: INFO: ************Home page title is passd ***********
+07202023 04:05:49 PM: INFO: ************Verifying Login test**********
+07212023 11:32:20 AM: INFO: ************Test_001_Login**********
+07212023 11:32:20 AM: INFO: ************Verifying Home Page Title***********
+07212023 11:32:28 AM: INFO: ************Home page title is passd ***********
+07212023 11:32:33 AM: INFO: ************Verifying Login test**********
+07212023 11:58:36 AM: INFO: ************Test_001_Login**********
+07212023 11:58:36 AM: INFO: ************Verifying Home Page Title***********
+07212023 11:58:40 AM: INFO: ************Home page title is passd ***********
+07212023 11:58:45 AM: INFO: ************Verifying Login test**********
+07212023 12:04:06 PM: INFO: ************Test_001_Login**********
+07212023 12:04:06 PM: INFO: ************Verifying Home Page Title***********
+07212023 12:04:11 PM: INFO: ************Home page title is passd ***********
+07212023 12:04:15 PM: INFO: ************Verifying Login test**********
+07212023 02:54:15 PM: INFO: ************Test_002_DDT_Login**************
+07212023 02:54:15 PM: INFO: ************Verifying Login DDT test**********
+07242023 02:25:30 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:30:21 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:34:44 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:34:57 PM: INFO: ************* Login succesful **********
+07242023 02:34:57 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:47:10 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:47:20 PM: INFO: ************* Login succesful **********
+07242023 02:47:20 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:49:37 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:49:48 PM: INFO: ************* Login succesful **********
+07242023 02:49:48 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:53:45 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:53:57 PM: INFO: ************* Login succesful **********
+07242023 02:53:57 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:54:01 PM: INFO: ************* Providing customer info **********
+07242023 02:56:15 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:56:24 PM: INFO: ************* Login succesful **********
+07242023 02:56:24 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:58:32 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 02:58:42 PM: INFO: ************* Login succesful **********
+07242023 02:58:42 PM: INFO: ******* Starting Add Customer Test **********
+07242023 02:58:46 PM: INFO: ************* Providing customer info **********
+07242023 02:58:59 PM: INFO: ************* Saving customer info **********
+07242023 02:58:59 PM: INFO: ********* Add customer validation started *****************
+07242023 02:58:59 PM: INFO: ********* Add customer Test Passed *********
+07242023 02:59:00 PM: INFO: ******* Ending Add customer test **********
+07242023 03:03:20 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 03:03:28 PM: INFO: ************* Login succesful **********
+07242023 03:03:28 PM: INFO: ******* Starting Add Customer Test **********
+07242023 03:03:31 PM: INFO: ************* Providing customer info **********
+07242023 03:03:43 PM: INFO: ************* Saving customer info **********
+07242023 03:03:43 PM: INFO: ********* Add customer validation started *****************
+07242023 03:03:44 PM: ERROR: ********* Add customer Test Failed ************
+07242023 03:05:54 PM: INFO: ************* Test_003_AddCustomer **********
+07242023 03:06:03 PM: INFO: ************* Login succesful **********
+07242023 03:06:03 PM: INFO: ******* Starting Add Customer Test **********
+07242023 03:06:06 PM: INFO: ************* Providing customer info **********
+07242023 03:06:18 PM: INFO: ************* Saving customer info **********
+07242023 03:06:18 PM: INFO: ********* Add customer validation started *****************
+07242023 03:06:19 PM: INFO: ********* Add customer Test Passed *********
+07242023 03:06:19 PM: INFO: ******* Ending Add customer test **********
+07252023 04:54:34 PM: INFO: ************* Test_003_AddCustomer **********
+07252023 04:54:47 PM: INFO: ************* Login succesful **********
+07252023 04:54:47 PM: INFO: ******* Starting Add Customer Test **********
+07252023 04:54:53 PM: INFO: ************* Providing customer info **********
+07252023 04:55:52 PM: INFO: ************* Saving customer info **********
+07252023 04:55:52 PM: INFO: ********* Add customer validation started *****************
+07252023 04:55:53 PM: INFO: ********* Add customer Test Passed *********
+07252023 04:55:54 PM: INFO: ******* Ending Add customer test **********
+07252023 04:56:02 PM: INFO: ************Test_001_Login**********
+07252023 04:56:02 PM: INFO: ************Verifying Home Page Title***********
+07252023 04:56:09 PM: INFO: ************Home page title is passd ***********
+07252023 06:11:44 PM: INFO: ************* Test_003_AddCustomer **********
+07252023 06:11:55 PM: INFO: ************* Login succesful **********
+07252023 06:11:55 PM: INFO: ******* Starting Add Customer Test **********
+07252023 06:12:00 PM: INFO: ************* Providing customer info **********
+07252023 06:12:12 PM: INFO: ************* Saving customer info **********
+07252023 06:12:12 PM: INFO: ********* Add customer validation started *****************
+07252023 06:12:12 PM: INFO: ********* Add customer Test Passed *********
+07252023 06:12:13 PM: INFO: ******* Ending Add customer test **********
+07252023 06:12:17 PM: INFO: ************Test_001_Login**********
+07252023 06:12:17 PM: INFO: ************Verifying Home Page Title***********
+07252023 06:12:24 PM: INFO: ************Home page title is passd ***********
